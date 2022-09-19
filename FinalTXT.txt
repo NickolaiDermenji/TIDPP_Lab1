@@ -1,0 +1,30 @@
+commit 5d29613f8f26827456250127ac514bcd8bf687bf (HEAD -> branch1, origin/branch1)
+Author: Nick <dermenji2001@mail.ru>
+Date:   Mon Sep 19 13:30:05 2022 +0300
+
+    second commit
+
+commit 35ecb80f0ecc3f3ecdd80bd2041bd64b4f70694e (origin/master, master)
+Author: Nick <dermenji2001@mail.ru>
+Date:   Mon Sep 19 13:28:51 2022 +0300
+
+    First commit
+
+dermenji@DESKTOP-207KN5Q MINGW64 /c/TIDPP (branch1)
+$ git checkout branch2
+Switched to branch 'branch2'
+Your branch is up to date with 'origin/branch2'.
+
+dermenji@DESKTOP-207KN5Q MINGW64 /c/TIDPP (branch2)
+$ git log
+commit 487fd2a6a3b1b976c54cfdc122492b272ee312d4 (HEAD -> branch2, origin/branch2)
+Author: Nick <dermenji2001@mail.ru>
+Date:   Mon Sep 19 13:31:58 2022 +0300
+
+    third commit
+
+commit 35ecb80f0ecc3f3ecdd80bd2041bd64b4f70694e (origin/master, master)
+Author: Nick <dermenji2001@mail.ru>
+Date:   Mon Sep 19 13:28:51 2022 +0300
+
+    First commit
